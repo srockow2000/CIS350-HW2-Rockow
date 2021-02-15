@@ -1,6 +1,6 @@
 <h1> CIS 350 Rockow Homework 2 <h1>
 
-**Interests**
+<h2>Interests<h2>
 
 *Reading fiction 
 *Working in the financial sector
