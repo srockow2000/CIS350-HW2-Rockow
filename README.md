@@ -1,12 +1,12 @@
-<h1> CIS 350 Rockow Homework 2 <h1>
+# CIS 350 Rockow Homework 2 #
 
-<h2>Interests<h2>
+##Interests##
 
 * Reading fiction 
 * Working in the financial sector
 * Musicals, particularly pop musicals
 
-<h3>Technical Background<h3>
+#Technical Background#
 
 As an engineering major, I helped to design and create a robot that would be able to follow a line, detect walls, find balls, and score them. I used Arduino for this project. On my own, I have been experimenting with a Raspbery Pi b+, but I have not gotten far since I became distracted by school.
 
