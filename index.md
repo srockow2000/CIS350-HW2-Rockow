@@ -10,7 +10,7 @@ Do you want to play a game?
 What are the [odds](https://justflipacoin.com/) you pick this [one](https://youtu.be/dQw4w9WgXcQ?t=42)? Hint: 872M people did - but not all by choice
 
 
-### Here's a [super duper groovy game](https://chromedino.com/) and [another](https://www.google.com/fbx?fbx=snake_arcade) and [this one](https://pacman.cc/) and here's a [bunch more](https://www.coolmathgames.com/)
+### Here's a [super duper groovy game](https://chromedino.com/) and [another](https://www.google.com/fbx?fbx=snake_arcade) ([honestly, I want to do this so much])(https://www.youtube.com/watch?v=tjQIO1rqTBE) and [this one](https://pacman.cc/) and here's a [bunch more](https://www.coolmathgames.com/)
 
 But as the Bard said, ". . . wisely and slow; they stumble that move fast." So here's [something else](https://tetris.com/play-tetris).
 
