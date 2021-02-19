@@ -1,6 +1,8 @@
-<p align="center">
+<head>
+  <h1 align="center", style="font-size:40px;">
 Do you want to play a game?
-</p>
+  </h1>
+</head>
 What are the [odds](https://www.youtube.com/watch?v=dQw4w9WgXcQ) you pick this one? Hint: 872M people did - but not all by choice
 
 
