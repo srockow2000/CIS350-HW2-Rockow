@@ -2,7 +2,7 @@
 Do you want to play a game?
 </p>
 
-What are the [odds](https://www.youtube.com/watch?v=dQw4w9WgXcQ) you pick this one? Hint: 872M people did - but not all by choice
+What are the [odds](https://justflipacoin.com/) you pick this [one](https://www.youtube.com/watch?v=dQw4w9WgXcQ)? Hint: 872M people did - but not all by choice
 
 
 ### Here's a [super duper groovy game](https://chromedino.com/) and [another](https://www.google.com/fbx?fbx=snake_arcade) and [this one](https://pacman.cc/) and here's a [bunch more](https://www.coolmathgames.com/)
