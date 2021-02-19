@@ -1,7 +1,6 @@
-## Welcome . . . maybe
-
+<p align="center">
 ## Do you want to play a game?
-
+</p>
 What are the [odds](https://www.youtube.com/watch?v=dQw4w9WgXcQ) you pick this one? Hint: 872M people did - but not all by choice
 
 
@@ -9,10 +8,10 @@ What are the [odds](https://www.youtube.com/watch?v=dQw4w9WgXcQ) you pick this o
 
 If you don't feel like clicking some **super safe links**, here's some fun facts:
 
-- ### Acceptable Alternatives for 'YouTube'
+-[] ### Acceptable Alternatives for 'YouTube'
 ![image](https://preview.redd.it/5adf7jkicq961.png?width=960&crop=smart&auto=webp&s=2ddff2cfd3fab712c3425cbf37dd5f8ca1dc3d2a)
 
-- ### Everything on here is plagiarized because I thought it would be funny and licensing fees are not something I can afford to think of
+-[] ### Everything on here is plagiarized because I thought it would be funny and licensing fees are not something I can afford to think of
 
 Wish I knew how to add pages, but oh well. I tried to add a 404 page, but that did not go well.
 
