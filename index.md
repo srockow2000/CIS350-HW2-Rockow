@@ -1,5 +1,5 @@
-<p align="center", style="font-size:40px;">
-Do you want to play a game?
+<p align="center">
+<h5> Do you want to play a game? </h5>
 </p>
 
 What are the [odds](https://www.youtube.com/watch?v=dQw4w9WgXcQ) you pick this one? Hint: 872M people did - but not all by choice
