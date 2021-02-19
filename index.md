@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to this place . . . maybe
 
-You can use the [editor on GitHub](https://github.com/srockow2000/CIS350-HW2-Rockow/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Do you want to play a game?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What are the [odds](https://www.youtube.com/watch?v=dQw4w9WgXcQ) you pick this one? Hint: 872M people did - but not all by choice
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Here's a [super duper groovy game](https://chromedino.com/) and here's a [bunch more](https://www.coolmathgames.com/)
 
-```markdown
-Syntax highlighted code block
+If you don't feel like clicking some super safe links, here's some fun facts:
 
-# Header 1
-## Header 2
-### Header 3
+- ### Acceptable Alternatives for 'YouTube'
+![image](https://preview.redd.it/5adf7jkicq961.png?width=960&crop=smart&auto=webp&s=2ddff2cfd3fab712c3425cbf37dd5f8ca1dc3d2a)
 
-- Bulleted
-- List
+- ## Everything on here is plagiarized because I thought it would be funny and licensing fees are not something I can afford to think of
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/srockow2000/CIS350-HW2-Rockow/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
