@@ -1,10 +1,12 @@
-<p align="center">
-## Do you want to play a game?
+## <p align="center">
+Do you want to play a game?
 </p>
 What are the [odds](https://www.youtube.com/watch?v=dQw4w9WgXcQ) you pick this one? Hint: 872M people did - but not all by choice
 
 
-### Here's a [super duper groovy game](https://chromedino.com/) and here's a [bunch more](https://www.coolmathgames.com/)
+### Here's a [super duper groovy game](https://chromedino.com/) and [another](https://www.google.com/fbx?fbx=snake_arcade) and [this one](https://pacman.cc/) and here's a [bunch more](https://www.coolmathgames.com/)
+
+But as the Bard said, ". . . wisely and slow; they stumble that move fast." So here's [something else](https://tetris.com/play-tetris).
 
 If you don't feel like clicking some **super safe links**, here's some fun facts:
 
